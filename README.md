@@ -9,8 +9,8 @@
 
 ## Faithfulness & Granularity
 - Each row is one customer...
-- Scope: ...
-- Strange values: ...
+- Scope: 7,043 customer records from the IBM Telco dataset
+- Strange values: 11 blank TotalCharges values, all had tenure = 0
 - Duplicates: none
 
 ## Key finding
